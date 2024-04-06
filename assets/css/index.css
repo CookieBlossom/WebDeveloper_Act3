@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    min-height: 100vh;
+}
+.navbar-brand{
+    color: white;
+    padding-left: 10px;
+}
+.navbar-expand-sm .navbar-collapse{
+    justify-content: space-around;
+}
+.nav-item{
+    min-width: 100px;
+    
+}
+.container-fluid{
+    padding: 0;
+}
+.modal-body{
+    background-color: aliceblue;
+}
+h5, h6{
+    text-align: center;
+    font-weight: bold;
+}
